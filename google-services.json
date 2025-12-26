@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "948385323542",
+    "project_id": "organic-state-6547c",
+    "storage_bucket": "organic-state-6547c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948385323542:android:a3cf417986f80cb2a8f337",
+        "android_client_info": {
+          "package_name": "com.example.organicstate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDteQtVNOJtKMUvgojOFrFxdQ22kmHOlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
