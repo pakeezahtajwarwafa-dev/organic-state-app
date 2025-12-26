@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Theme.OrganicState" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary_green</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent_green</item>
+        <item name="android:statusBarColor">@color/primary_green</item>
+    </style>
+
+    <style name="Theme.OrganicState" parent="Base.Theme.OrganicState" />
+</resources>

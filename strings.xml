@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Organic State</string>
+    <string name="subtitle">Agricultural Marketplace</string>
+
+    <!-- Auth -->
+    <string name="welcome_back">Welcome Back</string>
+    <string name="login_subtitle">Login to continue</string>
+    <string name="create_account">Create Account</string>
+    <string name="register_subtitle">Sign up to get started</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_cart">Cart</string>
+    <string name="nav_store">Store</string>
+    <string name="nav_buy">Buy</string>
+    <string name="nav_stats">Stats</string>
+    <string name="nav_alerts">Alerts</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Common -->
+    <string name="loading">Loading…</string>
+    <string name="error">Error occurred</string>
+    <string name="success">Success</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="save">Save</string>
+    <string name="search">Search</string>
+    <string name="logout">Logout</string>
+
+    <!-- Products -->
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="buy_now">Buy Now</string>
+    <string name="out_of_stock">Out of Stock</string>
+    <string name="in_stock">In Stock</string>
+
+    <!-- Cart -->
+    <string name="my_cart">My Cart</string>
+    <string name="empty_cart">Your cart is empty</string>
+    <string name="checkout">Checkout</string>
+    <string name="total_amount">Total Amount</string>
+
+    <!-- Profile -->
+    <string name="edit_profile">Edit Profile</string>
+    <string name="order_history">Order History</string>
+    <string name="settings">Settings</string>
+
+    <!-- Farmer -->
+    <string name="add_product">Add Product</string>
+    <string name="my_products">My Products</string>
+    <string name="sales_stats">Sales Statistics</string>
+
+    <!-- NEW: Reviews & Ratings -->
+    <string name="write_review">Write a Review</string>
+    <string name="edit_review">Edit Your Review</string>
+    <string name="delete_review">Delete Review</string>
+    <string name="submit_review">Submit Review</string>
+    <string name="update_review">Update Review</string>
+    <string name="your_rating">Your Rating</string>
+    <string name="your_review">Your Review (Optional)</string>
+    <string name="verified_purchase">Verified Purchase</string>
+    <string name="no_reviews">No reviews yet. Be the first to review!</string>
+    <string name="ratings_and_reviews">Ratings &amp; Reviews</string>
+    <string name="out_of_5">out of 5</string>
+    <string name="reviews_count">%d reviews</string>
+    <string name="farmer_response">Farmer\'s Response</string>
+    <string name="reply_to_review">Reply to Review</string>
+    <string name="send_reply">Send Reply</string>
+    <string name="customer_review">Customer Review</string>
+    <string name="review_deleted">Review deleted successfully</string>
+    <string name="review_submitted">Review submitted successfully!</string>
+    <string name="review_updated">Review updated successfully!</string>
+    <string name="reply_sent">Reply sent successfully!</string>
+
+    <!-- Rating Labels -->
+    <string name="rating_excellent">Excellent</string>
+    <string name="rating_good">Good</string>
+    <string name="rating_average">Average</string>
+    <string name="rating_poor">Poor</string>
+    <string name="rating_very_poor">Very Poor</string>
+
+    <string name="recipe_ai">Recipe AI</string>
+    <string name="recipe_assistant">AI Recipe Assistant</string>
+    <string name="ingredients_to_recipes">Ingredients → Recipes</string>
+    <string name="recipes_to_ingredients">Recipe → Ingredients</string>
+</resources>
